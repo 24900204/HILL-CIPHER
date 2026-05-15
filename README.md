@@ -30,6 +30,7 @@ STEP-5: Combine all these groups to get the complete cipher text.
 
 ## PROGRAM 
 ```
+
 #include <stdio.h> 
 #include <string.h> 
 #include <ctype.h> 
@@ -109,10 +110,11 @@ strcat(dec, temp);
 printf("Decoded message : %s\n", dec); 
 return 0; 
 }
-
 ```
 ## OUTPUT
-<img width="837" height="468" alt="image" src="https://github.com/user-attachments/assets/815694e1-d756-4bd5-89ae-5bc3fdb0250e" />
+<img width="1691" height="906" alt="image" src="https://github.com/user-attachments/assets/e03ff531-5bed-46bb-9a7c-19674f2d1c6d" />
 
 ## RESULT
+
+
 C program to implement the hill cipher substitution techniques is sucessfully verified
